@@ -1,5 +1,10 @@
 {
     "Codegeex.CandidateNum": "2 (中)",
     "Codegeex.CompletionModel": "CodeGeeX Pro[Beta]",
-    "Codegeex.Privacy": true
+    "Codegeex.Privacy": true,
+    "files.associations": {
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
+    }
 }
